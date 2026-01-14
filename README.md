@@ -126,7 +126,7 @@ The system uses a **two-layer approach** to prevent duplicates:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Vedagirisankar/Gmail-to-Sheets/tree/main)
 cd gmail-to-sheets
 ```
 
@@ -260,12 +260,6 @@ gmail-to-sheets/
 ├── credentials/
 │   ├── credentials.json       # OAuth client secret (DO NOT COMMIT)
 │   └── token.pickle           # OAuth token (DO NOT COMMIT)
-│
-├── proof/                     # Screenshots and video (for submission)
-│   ├── gmail_inbox.png
-│   ├── google_sheet.png
-│   ├── oauth_consent.png
-│   └── demo_video.mp4
 │
 ├── .gitignore                 # Excludes sensitive files
 ├── requirements.txt           # Python dependencies
