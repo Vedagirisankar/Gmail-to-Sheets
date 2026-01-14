@@ -1,6 +1,6 @@
 # Gmail to Google Sheets Automation
 
-**Author:** [Your Full Name Here]
+**Author:** Vedagiri S
 
 ## 📋 Project Overview
 
@@ -152,11 +152,11 @@ pip install -r requirements.txt
 2. Create a new blank spreadsheet
 3. Copy the spreadsheet ID from the URL:
    ```
-   https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID/edit
+   [https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID/edit](https://docs.google.com/spreadsheets/d/1_KMTgnmk_8u8y1yHy5B8DcXDismuE69TnKPg7-wLyP0/edit?gid=0#gid=0)
    ```
 4. Open `config.py` and update:
    ```python
-   SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID'
+   SPREADSHEET_ID = 'https://docs.google.com/spreadsheets/d/1_KMTgnmk_8u8y1yHy5B8DcXDismuE69TnKPg7-wLyP0/edit?gid=0#gid=0
    ```
 
 ### Step 5: Run the Script
@@ -310,5 +310,5 @@ This project is for educational purposes as part of an internship assignment.
 
 ---
 
-**Submission Date:** [To be filled]  
-**Repository:** [Your GitHub/GitLab URL]
+**Submission Date:** 14/01/2026  
+**Repository:** https://github.com/Vedagirisankar/Gmail-to-Sheets
